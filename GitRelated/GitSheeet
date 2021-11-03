@@ -1,0 +1,3 @@
+Always checkout to master branch before pulling remote changes to local
+
+Always checkout to main local branch before making new changes to make contributions so that previous changes dont show in every new created pull request
